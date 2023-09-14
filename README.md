@@ -1,5 +1,5 @@
 # Chatwoot-WHMCS
-Permite utilizar Chatwoot con whmcs y detectar cuando un cliente ha iniciado sesión.
+Permite utilizar Chatwoot con whmcs y detecta cuando un cliente ha iniciado sesión.
 
 # Suba los archivos a /public_html/modules/addons/, activelo.
 
